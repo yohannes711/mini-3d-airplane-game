@@ -11,3 +11,6 @@ Game web 3D menggunakan Three.js di mana pemain mengendalikan pesawat untuk meng
 1. Klik kiri pada mouse/layar untuk memulai game dan memunculkan suara latar.
 2. Gerakkan mouse ke atas/bawah untuk mengendalikan posisi terbang pesawat.
 3. **Misi:** Ambil batu **Biru** untuk mengisi energi dan hindari batu **Merah** agar tidak meledak!
+
+## Preview
+<img width="1343" height="576" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/4ec29af8-d9f1-41ba-bf1c-4380789a26a3" />
